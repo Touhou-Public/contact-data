@@ -1,7 +1,7 @@
 ---
-name: timline issue template
+name: 闲聊动态
 about: 时间线闲聊模板
-title: ''
+title: '有什么有趣的事吗？'
 labels: timeline
 assignees: ''
 
