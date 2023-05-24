@@ -27,13 +27,11 @@ body:
       description: 请在双引号中填写，不要修改格式。
       value: |
         ```json
-        {
-            "title": "",
-            "url": "",
-            "avatar": "",
-            "screenshot": "",
-            "description": ""
-        }
+    "hr02_01": {
+		"title": "夜のデンデラ野を逝く",
+		"title_en": "Passing on Through the Dendera Fields in the Night",
+		"collection": "hr02"
+	}
         ```
   - type: input
     id: friends-html
