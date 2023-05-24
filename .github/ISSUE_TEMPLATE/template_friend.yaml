@@ -27,19 +27,13 @@ body:
       description: 请在双引号中填写，不要修改格式。
       value: |
         ```json
-	        "hr01_07":{
-	        	"title": null,
-	        	"original": "hr01_07",
-	        	"circle": "Assaultdoor",
-	        	"album": "月遊 ～ツキアソビ～",
-	        	"arranger": "た人",
-	        	"pdf": "default",
-	        	"performance": [
-	        		{"performer": "ありおと", "link": "https://www.youtube.com/watch?v=mEM5aFJhC3I"}
-	        	],
-	        	"type": "arrange",
-	        	"difficulty": "?"
-        	}
+        {
+            "title": "",
+            "url": "",
+            "avatar": "",
+            "screenshot": "",
+            "description": ""
+        }
         ```
   - type: input
     id: friends-html
